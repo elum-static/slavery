@@ -1,1 +1,0 @@
-import{c as o,T as r,U as s}from"./CYcgBnH7.js";import{C as t}from"./Bc4xPdvq.js";import"./C7XCvVUl.js";import"./Bpjbnj1O.js";import"./BevGh89i.js";const m=m=>o(r,{onClick:()=>{s(1)},mode:"panel",get children(){return o(t,{})}});export{m as default};
