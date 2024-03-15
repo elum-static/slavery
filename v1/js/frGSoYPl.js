@@ -1,0 +1,1 @@
+import{c as r,T as o,U as s}from"./Bxj3pJI5.js";import{C as t}from"./DUdIQ5w8.js";import"./BnGJde1p.js";import"./Dck95pPC.js";import"./gAAIeb0T.js";const m=m=>r(o,{onClick:()=>{s(1)},mode:"card",get children(){return r(t,{})}});export{m as default};
