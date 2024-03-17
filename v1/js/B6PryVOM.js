@@ -1,0 +1,1 @@
+import{c as a,a2 as o,a3 as r}from"./4dRdjWN8.js";import{C as s}from"./NOwtJPII.js";import"./DOgl3RFL.js";import"./CfBzmS8g.js";const t=t=>a(o,{onClick:()=>{r(1)},mode:"panel",get children(){return a(s,{})}});export{t as default};
